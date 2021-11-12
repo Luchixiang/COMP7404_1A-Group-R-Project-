@@ -174,8 +174,6 @@ def test():
                     response = json_dict['dialog'][0][1]['text']
                 except:
                     response = " "
-                if infered_text == 'Say goodbye to everyone':
-                    response = 'Goodbye Everyone! Hope you have a nice day.'
                 print(response)
 
                 show_info(response, 'Zoe')

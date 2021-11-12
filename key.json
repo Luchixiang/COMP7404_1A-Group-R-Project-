@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "summer-scion-330401",
+  "private_key_id": "d29f3dba4c66eed15c7129cc26435f06832f4c77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6FizPxGBVHgyl\nd9rSpWE1q03W1MMCA8ln7u2vf3rGMHCycl46/6nLMYAnzGXA0zGXpUxsT08z8kkG\nEo4wSPJCfZM5rVQ4aRrasK0//apDBiG2w7Py8nC0Yy8sAeaTMTCZANuzIf8qvbcH\n+rWxh+C5vwWFuz3xz9yQp82H8GPm63MTTs7ruH3UaA+Cs6f0UO0W15NmUkNi+7n9\nPYK7h2K6wKK7GQAkQ+FU6rEDVsBrkUI3jrVPZYnxfWhYdse8eK2u7FGZ5O0nh+Tt\nH8WmBRjrff6ZQPsi1aHcf9WEDly3i38EEpZQ1zbHD4SSDljemTcQGUrknOnBuX2Q\nhdU5udJVAgMBAAECggEAEv6HdW+si5OlI9Cvl9fEq+c/60FNZGvBh6fWQBcpj4hL\nQJO29Zu6F6EGXUmaS0vjYIDBY77WrU06UfHb7KbNf6b0u6rrEVT9JjxpesIoOm4q\nS87/E7nWcjs7iejpwbWAKeXyBv9d3d1+jMR0/lmJwTvz0toxcPjQIT3Xl1wcvmm2\nE/IgMOVYWKoyj4W6kvV5vKCtJNVrpvMJQjyLpk8busiX5O9Ej//hNV1+zcVYjCkf\nYAVP9J4Tztme64rbDpiXTC9Rll1gAhFSk6Re5XJ2rNhBqSanEMmWMc6/htIy5XuJ\nwzxspvNNlrfvMLvF6bBIk+jqBxpWnoWUjdBJa1HzEQKBgQD7jZ22Vkx4wVijIjCB\nWGRja2vpPRv1nyZDOY1Ybqjbph69KFSzexAcA5iTJXg9Tz2L7ONg1uFx3oLAS81g\n1WOlLno6y1xSthUZnMrNyUuCa47CgudVc58eGUEccc+NDlF7mifA/lMYxa1o2s59\npeEkEmQytG1jf+fo13+iUacs7QKBgQC9YEuVHCV2N1ZnUSytsPNrLzjaMCfM5jr7\nwfRTmRdROKGQjsy85LtUmzXUV4U380IHzIv9FhsuwFIqyfyYRXxm0vfZA7qWXqVN\nvFQuprHQirqdXtazp6YlVpA9+gMy8V21d/RxbRORGS+FLbZZuJFpkS1Rl0mJ76+Y\nYamPXDR2CQKBgQDxM4Ed7PG2d+39vjK0U4Uurznxkt7UTZ3qp6yYNsNCma6vwZQ1\n5LI1ql0J+suoPerN2H7NxDy3apwEtqpfRz0cjcw1w/jqdh0VSfpMB8+XZnqkl9Ap\nZ4wS2DROifJxVmFbGx0zOKmE/0afW+7TG9MdO2VIGSkqVuKPqNKBWbnqoQKBgDl6\n5PYZWPWMzlkFtn3x27CI4MS5IRt8NiL8N+C38u/gNIngDhy3gHSpt6j/95uH5l7f\now3qi82g6k+6h0TgsmWzWy8vho7lo1747sRKLGaT9RiXFKvrEu76W0W0gQwRXtQZ\n2MQky2+bKWVO/q40604TlqHRPaz0Z2PlIMY2wmWhAoGAGbycLUApQbnnutJNNacQ\ng8naI415uOG2I8jQU4fExhsYvd0emDzufniCEKsPAmSRpo9zJQaedStoNjK+woUI\nX7721aC0j8QaVlOFaKplzH/LJCCkqh0wAwZLVo+fUhxB9IX5EwrD5yPxv6dHBbtU\nLV97aKUeIUqyBKWvui6Rkw0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deepspeech@summer-scion-330401.iam.gserviceaccount.com",
+  "client_id": "104151514469329177642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deepspeech%40summer-scion-330401.iam.gserviceaccount.com"
+}
